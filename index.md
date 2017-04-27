@@ -9,4 +9,8 @@ Here you'll find some information about me
 
 ### Love WordPress
 
+### Social Media
+
+[Twitter](https://twitter.com/sumeet_sarna)
+
 
