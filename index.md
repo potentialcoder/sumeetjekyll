@@ -1,10 +1,10 @@
-## Welcome to mt site
+## Welcome to my site
 
 Here you'll find some information about me
 
 
 
-### I love technology
+### I Love Technology
 
 
 ### Love WordPress
